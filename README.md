@@ -11,11 +11,9 @@ This place includes :
 
 
 🌐 Socials : 
-<p align="left">
-  <a href="www.linkedin.com/in/tejashreesonak">
-    <img src="skillicons.dev" alt="LinkedIn" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/tejashreesonak)
+[![Medium](https://img.shields.io/badge/Medium-Read-black?logo=medium&logoColor=white)](https://medium.com/@tsonak23)
+
 
 
 
