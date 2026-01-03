@@ -11,11 +11,8 @@ This place includes :
 
 
 🌐 Socials : 
-<p align="center">
-  <a href="www.linkedin.com/in/tejashreesonak">
-    <img src="skillicons.dev" alt="LinkedIn" />
-  </a>
-</p>
+[![LinkedIn Badge](img.shields.io)](www.linkedin.com/in/tejashreesonak)
+
 
 
 
