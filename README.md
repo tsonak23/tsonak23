@@ -11,7 +11,11 @@ This place includes :
 
 
 🌐 Socials : 
-[![LinkedIn Badge](img.shields.io)(logoColor=white)](www.linkedin.com/in/tejashreesonak)
+<p align="left">
+  <a href="www.linkedin.com/in/tejashreesonak">
+    <img src="skillicons.dev" alt="LinkedIn" />
+  </a>
+</p>
 
 
 
