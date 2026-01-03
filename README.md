@@ -1,6 +1,6 @@
  Hi there 👋
 
-I am Tejashree Sonak. I am an Electrical Engineer by profession with mixed experience (8+) of Electrical and Low voltage systems
+I am Tejashree Sonak. I have worked as an Electrical Engineer for more than 8 years in Low voltage systems
 Currently on parenting break. 
 I would like to restart my career with a transition in Data Analytics 📊
 Looking for entry level data analyst jobs ( Hybrid /Remote) 
