@@ -11,7 +11,7 @@ This place includes :
 
 
 🌐 Socials : 
-[![LinkedIn Badge](img.shields.io)](www.linkedin.com/in/tejashreesonak)
+[![LinkedIn Badge](img.shields.io)(logoColor=white)](www.linkedin.com/in/tejashreesonak)
 
 
 
