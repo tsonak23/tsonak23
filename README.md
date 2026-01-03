@@ -25,6 +25,15 @@ This place includes :
 ![Data%20Modeling](https://img.shields.io/badge/Data%20Modeling-6A5ACD?logo=databricks&logoColor=white)
 
 
+Certifications: 
+
+### 📜 Certifications
+
+![upGrad](https://img.shields.io/badge/Product%20Management%20Bootcamp-upGrad-EC6C2B?logo=udemy&logoColor=white)
+![Toastmasters](https://img.shields.io/badge/Level%201%20Strategic%20Relationships-Toastmasters%20International-004165?logo=toastmasters&logoColor=white)
+
+
+
 
 
 
