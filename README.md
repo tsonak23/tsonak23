@@ -21,7 +21,7 @@ This place includes :
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=databricks&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-000000?logo=microsoft&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-5E5E5E?logo=microsoft&logoColor=white)
 
 
 
