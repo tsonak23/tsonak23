@@ -1,16 +1,15 @@
-## Hi there 👋
+ Hi there 👋
 
-<!--
-**tsonak23/tsonak23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Tejashree Sonak. I am an Electrical Engineer by profession with mixed experience (8+) of Electrical and Low voltage systems. 
+Currently on parenting break. 
+I would like to restart my career with a transition in Data Analytics.📊
+Looking for entry level data analyst jobs ( Hybrid /Remote). 
 
-Here are some ideas to get you started:
+This place includes : 
+* Dashboards which I prepared while studying Power BI
+* Currently working Live projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌐 Socials : 
+www.linkedin.com/in/tejashreesonak 
+
